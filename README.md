@@ -1,2 +1,4 @@
-# recastly-redux
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+# video-player-redux
+
+## Description
+A video player that utilizes the YouTube API to search for and play videos. Built with React.js and Redux.
